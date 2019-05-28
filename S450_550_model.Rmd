@@ -15,13 +15,13 @@ output:
 - **STAT450: Case Studies in Statistics**
   - real case study
   
-  - statistics & computational & communication
+  - statistical & computational & communication skills
 
   
 - **STAT550: Techniques for Statistical Consulting**
   - early involvement in Consulting
   
-  - statistics & computational & communication
+  - statistical & computational & communication skills
   - mentoring and/or supervisory role
   
 - **A joint model: real consulting project**
@@ -143,7 +143,7 @@ output:
 
 - to experience a **full** and **open-ended** data analysis process 
 
-- to build collaborative relationships with peers
+- to build collaborative relationships with peers and researchers
 
 
 ---
@@ -168,9 +168,13 @@ output:
 - Many in-class and out-of-class discussions with the groups
 - Weekly seminars to address statistical and computational challenges
 
+
+
 ## Is this enough??
 
-- Probably not but expensive to get additional resourses
+--
+
+- Probably not, but it's difficult to get additional resourses
 
 - Extremely time-consuming course for a single instructor 
 
@@ -183,6 +187,8 @@ output:
 ---
 ## STAT550: Techniques for Statistical Consulting
 
+--
+
 **Objectives**
   - promote an early involvement in statistical consulting
   
@@ -192,9 +198,9 @@ output:
   - help students to  
     - use and sharpen their statistical and computational skills
     
-    - to improve their communication skills
+    - improve their communication skills
 
-    - to build a portfolio for future reference
+    - build a portfolio for future reference
 
 ---
 <img src="gibbs_model_ed.png" style="width: 85%" />
@@ -211,7 +217,7 @@ output:
 - both classes work on a real data case study
 
 - grad students mentor and supervised undergraduate students
-- undergraduate students in-charge of most of the work 
+- undergraduate students are in-charge of most of the work 
 ---
 
 ## Is this <font color=red>DATA SCIENCE </font>?
@@ -249,7 +255,7 @@ output:
 
 ### <font color=red>**Can/Should**</font> this be accomplished in Consulting courses??
 ---
-##Key componets of our model
+##Key components of our model
 <img src="cohen_model.png" style="width: 100%" />
 
 ### Each group collaborates through a GitHub/GitLab repository
@@ -259,7 +265,7 @@ output:
 
 - can be easily transfered to the client at the end of the term
 
-### Both classes meet regularly throught the term
+### Both classes meet regularly throughout the term
 ---
 ##Key componets of our model (cont.)
 
@@ -280,7 +286,7 @@ output:
  - Final results are presented in an open poster session
 ---
 # Acknowledgements
-- Craig Burkett, Ed Kroc, Dr. Sara Mostafavi 
+- Craig Burkett, Ed Kroc, Estella Qi, Dr. Sara Mostafavi 
 
 - Amazing dedicated TAs in all terms
 
