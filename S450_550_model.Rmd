@@ -215,9 +215,8 @@ output:
 ---
 
 ## Is this <font color=red>DATA SCIENCE </font>?
----
+--
 
-## Is this <font color=red>DATA SCIENCE </font>?
 ![Data Science](DS.jpg)
 ---
 ![Data Science from Google Trend](googleTrends.png)
